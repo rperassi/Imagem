@@ -2,6 +2,8 @@
 
 # ALGORITMO
 
+inicio
+
 c = 0
 enquanto c < 16 faça
   l = 0
@@ -22,6 +24,8 @@ enquanto c < 16 faça
   fimenquanto
 c++
 fimenquanto
+
+fim
 
 # FLUXOGRAMA
 
