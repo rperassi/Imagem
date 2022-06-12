@@ -5,7 +5,6 @@
 inicio
 
 c = 0
-
 enquanto c < 16 faça
   l = 0
   enquanto l < 16 faça
@@ -24,7 +23,6 @@ enquanto c < 16 faça
     l++
   fimenquanto
 c++
-
 fimenquanto
 
 fim
