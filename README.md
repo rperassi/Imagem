@@ -1,7 +1,6 @@
 # Imagem
 
 # ALGORITMO
-
 inicio
 
 c = 0
@@ -26,6 +25,5 @@ c++
 fimenquanto
 
 fim
-
 # FLUXOGRAMA
 
