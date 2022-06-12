@@ -27,3 +27,4 @@ fimenquanto
 fim
 # FLUXOGRAMA
 
+![Fluxograma Imagem](https://github.com/rperassi/Imagem/blob/f8c2a95f9645a6b1b76750e2745521bf9dd7e3a0/Fluxograma%20imagem.png)
